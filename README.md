@@ -1,6 +1,10 @@
 # ApiRest com Flask
 
-Este projeto foi desenvonvido com a finalidade de aprender os fundamentos do desenvovimento de Api's.
+O projeto consiste em uma api que insere dados (id, idade e nome) de um "Lead" no banco de dados usando o POST, o id é gerado automaticamnete.
+O mesmo "Lead" pode ser alterado com o PUT e também pode ser excluido com o DELETE, ambos usando o ID como filtro de busca.
+O GET foi criado de duas maneiras, um que busca toda a base de dados enquanto o outro pode ser usado como filtro o id único.
+
+Os dados são apresentados com um contador (count) com a quantidade de leads na base, e com uma lista com os dados de cada lead.
 
 
 
