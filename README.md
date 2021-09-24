@@ -1,4 +1,4 @@
-# fundamentos-api-flask
+# ApiRest com Flask
 
 Este projeto foi desenvonvido com a finalidade de aprender os fundamentos do desenvovimento de Api's.
 
@@ -29,9 +29,9 @@ Este projeto foi desenvonvido com a finalidade de aprender os fundamentos do des
   <img src="https://user-images.githubusercontent.com/80868200/134597242-b45faf4d-9b07-4441-b770-85b0d3a629b8.png" width="850px"/>
 </div>
 
-## Como executar o projeto
+# Como executar o projeto
 
-Pré-requisitos: Python 3 || Flask || Pydantics || httpie
+Pré-requisitos: Python 3 || Flask || Pydantics || TinyDB
 
 ```bash
 # Clonar repositório
@@ -52,5 +52,3 @@ http://localhost:5000/apidoc/swagger
 <b>Willian de Oliveira Damas</b>
 
 [![Linkedin: Willian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiillianoliveira/)](https://www.linkedin.com/in/wiillianoliveira/) 
-
-
